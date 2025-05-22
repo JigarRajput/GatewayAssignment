@@ -27,7 +27,7 @@ cd GatewayAssignment
 
 ### Step 4: Run the app
 
-1. Connect your Android device or start an emulator.  
+1. Connect your Android device (preferred) or start an emulator.  
 2. Click the **Run** button in Android Studio and select your device to launch the app.
 
 ## Project Details
